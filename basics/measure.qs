@@ -1,3 +1,5 @@
+// Program to allocate and measure qubits
+
 // Import a quantum library
 import Microsoft.Quantum.Diagnostics.*;
 
