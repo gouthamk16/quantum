@@ -13,7 +13,7 @@ operation SetQubitState(desired : Result, target : Qubit) : Unit {
 operation Main() : (Int, Int, Int, Int) {
     mutable numOnesQ1 = 0;
     mutable numOnesQ2 = 0;
-    let count = 1000;
+    let count = 10000;
 
     // Allocate the qubits
     use (q1, q2) = (Qubit(), Qubit());
