@@ -9,7 +9,7 @@ Manipuatling and measuring qubits and to demonstrate the effects of superpositio
 
 ## Init qubit to known state
 The first step is to define a Q# operation that initializes qubit to a known state. This operation can be called to set a qubit to a classical state, meaning that when measures it either returns Zero 100% of the time or One 100% of the time.
-```C#
+```Q#
 import Microsoft.Quantum.Intrinsic.*;
 import Microsoft.Quantum.Canon.*;
 

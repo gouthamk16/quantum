@@ -13,4 +13,3 @@ Superposition states enable the power of quantum computing. A quantum particle s
 Entanglement is the correlation between two or mroe quantum systems. When two qubits are said to be "entangled", they're correlated and sharing the information of their states such that the quantum state of individual qubits can't be described indipendently. With quantum entanglement you can only know the quantum state of the global system, not the individual states. Entangled quantum systems maintain this correlation even when separated over large distances. This means that whatever operation or process you apply to one subsystem correlates to the other subsystem as well. Thus, measuring the state of one qubit provides information about the state of the other qubit
 
 Read more: https://learn.microsoft.com/en-us/azure/quantum/overview-understanding-quantum-computing
-
